@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Lindex Demo",
+    "slug": "layoutIndexApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4E949B"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#4E949B"
+      },
+      "package": "com.yuvi_2000.layoutIndexApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "25b3e7e8-ef01-458c-93d9-8d09885c94d9"
+      }
+    }
+  }
+}
